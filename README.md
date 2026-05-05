@@ -1,8 +1,8 @@
-# Splunk-siem-lab
+# Splunk-SIEM-Lab
 
 This project demonstrates end-to-end SIEM deployment, log ingestion, and threat detection using Splunk and Sysmon.
 This lab simulates real-world SOC analyst workflows, including monitoring, detection, and investigation of endpoint activity.
-Built a Splunk SIEM lab to ingest Windows and Sysmon logs, simulate endpoint activity, and detect process execution using SPL queries.
+I Built a Splunk SIEM lab to ingest Windows and Sysmon logs, simulate endpoint activity, and detect process execution using SPL queries.
 ## Screenshots
 
 ### Splunk Dashboard
