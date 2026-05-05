@@ -1,4 +1,4 @@
-# splunk-siem-lab
+# Splunk-siem-lab
 
 This project demonstrates end-to-end SIEM deployment, log ingestion, and threat detection using Splunk and Sysmon.
 This lab simulates real-world SOC analyst workflows, including monitoring, detection, and investigation of endpoint activity.
