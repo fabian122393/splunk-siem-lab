@@ -22,3 +22,7 @@ Built a Splunk SIEM lab to ingest Windows and Sysmon logs, simulate endpoint act
 
 ### Event Analysis
 ![Event Analysis](screenshots/event-analysis.png)
+
+## Project Documentation
+Full project walkthrough available here:  
+[splunk-siem-lab.pdf](splunk-siem-lab.pdf)
